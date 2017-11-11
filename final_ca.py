@@ -21,7 +21,7 @@ def get_names():
 
 # main program flow
 #!curl https://raw.githubusercontent.com/MicrosoftLearning/intropython/master/elements1_20.txt -o elements1_20.txt
-elements = open('elements1_20.txt', 'r')
+elements = open('txt\elements1_20.txt', 'r')
 elements.seek(0)
 el_list = []
 el_string = ' '

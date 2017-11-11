@@ -1,6 +1,6 @@
 """
 #Task2
-mean_temp = open('mean_temp.txt','r')
+mean_temp = open('txt\mean_temp.txt','r')
 headings = mean_temp.readline().split(",")
 print(headings)
 # [ ] The Weather: use while loop to print city and highest monthly average temp in celsius
@@ -13,7 +13,7 @@ mean_temp.close()
 """
 
 #Task3
-digits_of_pi = open('digits_of_pi.txt','r')
+digits_of_pi = open('txt\digits_of_pi.txt','r')
 name = input("Input your name:")
 print("Hi,", name)
 seed = len(name)
