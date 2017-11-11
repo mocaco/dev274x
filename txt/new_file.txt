@@ -1,0 +1,2 @@
+This is line #1 with 'w+'
+This is line #2 with 'w+'

@@ -1,0 +1,4 @@
+-USE SIMPLE FUNCTION AND VARIABLE NAMES
+-comment code
+-organize code into functions
+-use seek(0,2) to set read/write at end of file
